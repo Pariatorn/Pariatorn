@@ -28,5 +28,5 @@ Python 🐍 | BSV Onchain Dev (AI Assistant-powered) | Minimalist Thinker
 ---
 
 ### **✨ Notes**  
-- No frontend fluff — I focus on logic, automation, and onchain utility.
+- Building in silence — I focus on logic, automation, and onchain utility.
 - Always experimenting with AI assistants for dev workflows.
