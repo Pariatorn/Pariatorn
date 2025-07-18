@@ -1,13 +1,13 @@
 ### **👋 About Me**
-**Hobby Developer** | Engineering & Science Enthusiast
-Python 🐍 | BSV Onchain Dev (AI Assistant-powered) | Minimalist Thinker
+**Independent Developer** | Engineering & Science
+Python 🐍 | BSV Application Development | First Principles Thinker
 
 ---
 
 ### **🔧 Skills & Tools**
-- **Languages**: Python (main), Bash, Typescript
+- **Languages**: Python (main), Bash, Typst, (Typescript), (Rust)
 - **Domains**: Onchain Development, Data Analysis, Automation
-- **Philosophy**: "Simple, backend-first solutions for real problems"
+- **Philosophy**: "Merit-based solutions. Code over consensus."
 
 ---
 
@@ -28,5 +28,5 @@ Python 🐍 | BSV Onchain Dev (AI Assistant-powered) | Minimalist Thinker
 ---
 
 ### **✨ Notes**  
-- Building in silence — I focus on logic, automation, and onchain utility.
-- Always experimenting with AI assistants for dev workflows.
+- Building with purpose — Value creation through honest work.
+- Quality over quantity. Substance over appearance.
