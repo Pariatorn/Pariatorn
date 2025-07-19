@@ -11,11 +11,6 @@ Python 🐍 | BSV Application Development | First Principles Thinker
 
 ---
 
-### **🌐 Socials**
-- [X (Twitter)](https://twitter.com/pariatorn)
-
----
-
 ### **💸 Support My Work**
 **BSV (Bitcoin SV)**:
 
