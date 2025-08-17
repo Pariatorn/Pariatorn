@@ -1,12 +1,12 @@
 ### **👋 About Me**
-**Independent Developer** | Engineering & Science
+**Independent Developer** | Engineering, Science & Philosophy
 Python 🐍 | BSV Application Development | First Principles Thinker
 
 ---
 
 ### **🔧 Skills & Tools**
-- **Languages**: Python (main), Bash, Typst, (Typescript), (Rust)
-- **Domains**: Onchain Development, Data Analysis, Automation
+- **Languages**: Python (main), Bash, Typst, Latex, (Typescript), (Rust)
+- **Domains**: Automation, Data Analysis, Onchain Development
 - **Philosophy**: "Merit-based solutions. Code over consensus."
 
 ---
