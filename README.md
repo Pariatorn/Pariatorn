@@ -1,5 +1,5 @@
 ### **👋 About Me**
-**Independent Developer** | Engineering, Science & Philosophy
+**Independent Developer** | Engineering, Science & Philosophy |
 Python 🐍 | BSV Application Development | First Principles Thinker
 
 ---
